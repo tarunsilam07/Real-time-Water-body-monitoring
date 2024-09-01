@@ -1,0 +1,44 @@
+Arduino Uno
+Arduino Uno is one of the most popular and widely used microcontroller boards in the Arduino family. It is known for its simplicity and versatility, making it an excellent choice for beginners and experienced makers alike.
+
+Key Features:
+
+Microcontroller: ATmega328P
+Digital I/O Pins: 14 (6 PWM outputs)
+Analog Input Pins: 6
+Flash Memory: 32 KB (0.5 KB used by bootloader)
+SRAM: 2 KB
+EEPROM: 1 KB
+Clock Speed: 16 MHz
+USB Interface: USB-B connector for programming and power
+Specifications:
+
+Power Supply: Can be powered via USB or an external power supply (7-12V recommended).
+Operating Voltage: 5V
+Input Voltage: 7-12V (recommended range)
+Digital Output Current: 40 mA per pin
+Analog Output Resolution: 10-bit
+Programming:
+
+Language: C/C++ using the Arduino IDE.
+Upload Method: Code is uploaded via USB connection to the computer.
+Applications:
+
+Prototyping: Ideal for creating prototypes of electronic devices and systems.
+Education: Used extensively in learning and teaching electronics and programming.
+DIY Projects: Popular for hobbyists working on custom electronic projects, including robotics, home automation, and sensor integration.
+Advantages:
+
+Ease of Use: Simple to set up and program with extensive community support.
+Versatility: Compatible with a wide range of sensors, actuators, and shields.
+Support: Extensive documentation and a large number of libraries available.
+Pinout Diagram: Arduino Uno has various pins for digital input/output, analog input, power supply, and communication (e.g., SPI, I2C). For detailed pin configuration, refer to the official Arduino Uno pinout diagram.
+
+Getting Started:
+
+Connect the Board: Plug the Arduino Uno into your computer using a USB cable.
+Install IDE: Download and install the Arduino IDE from the official Arduino website.
+Write Code: Use the Arduino IDE to write and compile code.
+Upload Code: Transfer the code to the Arduino Uno board via the USB connection.
+Monitor: Use the Serial Monitor in the IDE to view output from the board.
+Arduino Uno is a versatile tool for developing a wide range of electronic projects, from simple LED blinkers to complex robotic systems.
