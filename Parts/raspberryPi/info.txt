@@ -1,0 +1,42 @@
+Raspberry Pi
+Raspberry Pi is a series of compact, low-cost, single-board computers developed by the Raspberry Pi Foundation. It is widely used for educational purposes, prototyping, and DIY projects.
+
+Key Features:
+
+Processor: ARM-based CPU (varies by model; e.g., Quad-core Cortex-A72 on Raspberry Pi 4)
+RAM: Varies by model (e.g., 2GB, 4GB, 8GB on Raspberry Pi 4)
+Storage: MicroSD card slot (for operating system and data storage)
+Connectivity: Ethernet, Wi-Fi, Bluetooth (varies by model)
+USB Ports: Multiple USB 2.0/3.0 ports (varies by model)
+GPIO Pins: 40-pin header for interfacing with sensors, actuators, and other peripherals
+Specifications:
+
+Operating Voltage: 5V via USB-C or micro USB (depending on the model)
+Video Output: HDMI and/or composite video (varies by model)
+Audio Output: 3.5mm jack or HDMI (varies by model)
+Programming:
+
+Languages: Supports various programming languages including Python, C++, Java, and Scratch.
+Operating Systems: Runs Linux-based OS such as Raspberry Pi OS (formerly Raspbian), Ubuntu, or specialized distributions like LibreELEC for media centers.
+Applications:
+
+Education: Used to teach programming, electronics, and computer science.
+Prototyping: Ideal for developing and testing hardware and software projects.
+DIY Projects: Commonly used in home automation, robotics, media centers, and more.
+Advantages:
+
+Affordability: Low-cost compared to traditional computers.
+Versatility: Suitable for a wide range of applications, from simple learning tools to complex systems.
+Community Support: Large community with extensive resources, tutorials, and project ideas.
+Popular Models:
+
+Raspberry Pi 4: High-performance model with multiple RAM options, USB 3.0, and dual 4K video support.
+Raspberry Pi Zero: Ultra-compact and cost-effective, ideal for smaller projects.
+Raspberry Pi Pico: Microcontroller-based board for low-power applications.
+Getting Started:
+
+Setup: Insert a microSD card with an OS into the Raspberry Pi, connect peripherals (keyboard, mouse, monitor), and power it up.
+Install OS: Use Raspberry Pi Imager to write the OS image to the microSD card.
+Configure: Set up your Raspberry Pi and configure network settings as needed.
+Develop: Write and run code using the integrated development environment or terminal.
+The Raspberry Pi provides a versatile and accessible platform for exploring computing, electronics, and programming.
