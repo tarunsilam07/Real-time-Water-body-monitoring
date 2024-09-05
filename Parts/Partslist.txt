@@ -1,0 +1,13 @@
+
+Arduino Uno x 3      =  ₹3,320
+ESP 32 x 7           =  ₹3,100
+pH sensor            =  ₹1,500
+turbidity sensor     =  ₹  800
+conductivity sensor  =  ₹1,900
+dissolved o2 sensor  =  ₹4,000
+temperature sensor   =  ₹1,500
+raspberry pi 4+      =  ₹3,500
+jumper wires x50     =  ₹  400
+bread board mini x10 =  ₹1,500
+
+total cost           =  ₹21,420
